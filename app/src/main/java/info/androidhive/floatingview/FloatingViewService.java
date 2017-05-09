@@ -16,6 +16,7 @@ public class FloatingViewService extends Service {
 
     private WindowManager mWindowManager;
     private View mFloatingView;
+    //dfd
 
     public FloatingViewService() {
     }
